@@ -15,6 +15,7 @@ class AddColumnUrlPathToCategoryTranslations extends Migration
     {
         Schema::table('category_translations', function (Blueprint $table) {
             $table->string('url_path', 2048)
+                ->nullable()
                 ->comment('maintained by database triggers');
         });
     }
