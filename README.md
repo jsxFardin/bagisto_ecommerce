@@ -1,5 +1,4 @@
 ## HappyMart
-A skeleton of Content Management System (CMS) built with laravel to dive in a new project quickly.
 ## Installation Guide
 - Clone the repository or download and unzip the project in your local environment.
 - You can delete the `.git` folder and continue from there if you want to use a different repository.
